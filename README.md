@@ -1,4 +1,4 @@
-💳 Credit Card Fraud Detection Dashboard
+💳 AI-Banking-Fraud-Analytics
 
 A Machine Learning-based Credit Card Fraud Detection project that analyzes transaction data and identifies potentially fraudulent transactions through an interactive dashboard built with Streamlit.
 
