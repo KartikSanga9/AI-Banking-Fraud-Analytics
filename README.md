@@ -70,9 +70,11 @@ cd Credit-Card-Fraud-Detection
 
 pip install streamlit pandas numpy scikit-learn plotly
 
-4. Run the dashboard
+4. 🚀 **Live Demo:
+5.  [Click Here to View AI Banking Fraud Analytics](https://credit-card-fraud-detection-cmgandzdzgy9enfyt3ppfk.streamlit.app/)
+   
 
-streamlit run Banking_Fraud_Detection/app.py
+https://credit-card-fraud-detection-cmgandzdggy9enfyt3ppfk.streamlit.app/
 
 👨‍💻 Author
 
