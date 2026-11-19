@@ -112,8 +112,8 @@ CHART_TEMPLATE = "plotly_dark"
 
 @st.cache_resource
 def load_files():
-    model = joblib.load("fraud_detection_model.pkl")
-    scaler = joblib.load("fraud_detection_scaler.pkl")
+    model = joblib.load("Banking_Fraud_Detection/fraud_detection_model.pkl")
+    scaler = joblib.load("Banking_Fraud_Detection/fraud_detection_scaler.pkl")
     return model, scaler
 
 try:
